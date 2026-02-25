@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\controllers\\exercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\views\\exercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\views\\exercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\models\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\models\\exercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\migrations\\20260112093602_firstmgration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\migrations\\20260112093602_firstmgration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|c:\\users\\denis\\source\\repos\\workoutfinal\\workoutfinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6AF89FD-4BEE-429C-9202-A0278D9FAFB4}|WorkoutFinal\\WorkoutFinal.csproj|solutionrelative:workoutfinal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./WorkoutDb/True/SqlTable/dbo.Exercises.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExercisesController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Controllers\\ExercisesController.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Controllers\\ExercisesController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Controllers\\ExercisesController.cs",
+              "RelativeToolTip": "WorkoutFinal\\Controllers\\ExercisesController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:16:29.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\Exercise.cs",
+              "RelativeToolTip": "WorkoutFinal\\Models\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:39:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WorkoutFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:16:27.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WorkoutFinal\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:15:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExerciseDto.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\ExerciseDto.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Models\\ExerciseDto.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\ExerciseDto.cs",
+              "RelativeToolTip": "WorkoutFinal\\Models\\ExerciseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:39:06.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Views\\Exercises\\Create.cshtml",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Views\\Exercises\\Create.cshtml",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Views\\Exercises\\Create.cshtml",
+              "RelativeToolTip": "WorkoutFinal\\Views\\Exercises\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T11:41:14.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260112093602_FirstMgration.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Migrations\\20260112093602_FirstMgration.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Migrations\\20260112093602_FirstMgration.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Migrations\\20260112093602_FirstMgration.cs",
+              "RelativeToolTip": "WorkoutFinal\\Migrations\\20260112093602_FirstMgration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:38:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WorkoutFinal\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WorkoutFinal\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-14T22:24:06.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WorkoutFinal\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:38:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WorkoutFinal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T11:39:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Program.cs",
+              "RelativeDocumentMoniker": "WorkoutFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\Program.cs",
+              "RelativeToolTip": "WorkoutFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:16:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WorkoutFinal\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "WorkoutFinal\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-01-14T22:24:10.709Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WorkoutFinal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\WorkoutFinal\\WorkoutFinal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WorkoutFinal\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-14T22:23:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Exercises.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./WorkoutDb/True/SqlTable/dbo.Exercises.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./WorkoutDb/True/SqlTable/dbo.Exercises.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-12T17:11:39.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

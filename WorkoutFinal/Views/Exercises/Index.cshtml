@@ -1,0 +1,56 @@
+﻿@model List<Exercise>
+@{
+}
+
+<h2 class="text-center mb-5">Workout plan</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Exercises" asp-action="Create">New Exercies</a>
+    </div>
+    <div class="col">
+
+    </div>
+
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+@*             <th>ID</th>
+ *@            <th>Name</th>
+            <th>Type</th>
+            <th>Set</th>
+            <th>Rep</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Created At</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var exercise in Model)
+        {
+            <tr>
+@*                 <td>@exercise.Id</td>
+ *@                <td>@exercise.Name</td>
+                <td>@exercise.Type</td>
+                <td>@exercise.Set</td>
+                <td>@exercise.Rep</td>
+                <td>@exercise.Description</td>
+                <td><img src="/exercises/@exercise.ImageFileName" width="100" /></td>
+                <td>@exercise.CreatedAt.ToString("MM/dd/yyyy")</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Exercises" asp-action="Edit"
+                        asp-route-id="@exercise.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Exercises" asp-action="Delete"
+                        asp-route-id="@exercise.Id" onclick="return confirm('Are you sure?')">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+
